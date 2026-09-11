@@ -1,0 +1,13 @@
+# Secret - do not upload
+config/
+.env
+
+#Backups and uploads - too big and private
+backup/
+backups/
+uploads/
+*.sql
+*.zip
+instambay_*/
+instambay_foodhub (3).zip
+instambay_foodhub (3).sql
